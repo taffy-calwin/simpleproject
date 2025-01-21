@@ -1,0 +1,40 @@
+ nav{
+  background-color: black;
+  color:white;
+  padding-left: 40em;
+  size: 20em;
+ }
+
+ .box{
+  display: inline-block;
+ }
+
+ .product {
+  text-align: center;
+ }
+
+ li,h1,ul{
+    display: inline;
+    font-size:larger;
+ }
+
+ ul{
+    margin-left: 30%;
+ }
+
+ li:hover{
+    color:white;
+ }
+ h1{
+    font-size: larger;
+ }
+
+ .about{
+    text-align: center;
+ }
+
+h1{
+    position:relative;
+    top: 50;
+    left: 50%;
+}
